@@ -16,15 +16,12 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   
-   <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=isExample&show_icons=true&theme=ayu-mirage"/>
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=isExample&show_icons=true&theme=algolia"/>
   
 ### 🎓 Yeji Kim 🎓
   
 ---
-<!--[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ashley)](https://solved.ac/ashley)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isExample&layout=compact)](https://github.com/isExample/github-readme-stats)-->
- 
 </div>
 
 #### 🖋️ Current Studying ...
@@ -64,6 +61,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=white"/>
+
+  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ashley"/>
 
 </div>
 -->
