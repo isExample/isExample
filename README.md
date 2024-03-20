@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fisexample%2Fhit-counter&count_bg=%236D9FD3&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/isexample)
+
 <!--
 **isExample/isExample** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
