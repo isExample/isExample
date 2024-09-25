@@ -1,70 +1,43 @@
-### Hi there 👋
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fisexample%2Fhit-counter&count_bg=%236D9FD3&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/isexample)
-
-<!--
-**isExample/isExample** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align="center">
-  
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=isExample&show_icons=true&theme=algolia"/>
-  
-### 🎓 Yeji Kim 🎓
-  
----
-
+## 👋 안녕하세요 김예지입니다 👋 &nbsp; [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fisexample%2Fhit-counter&count_bg=%236D9FD3&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/isexample)
+<div> 
+  <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/gradle-02303A?style=flat&logo=gradle&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
 </div>
-
-#### 🖋️ Current Studying ...
-<div align="left">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AmazonRDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AmazonS3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
+<div> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"> 
 </div>
 
 <!--
-<div align="left">
-  
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white"/></a>
-  <br>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=white"/>
+[![Skills](https://skillicons.dev/icons?i=java,python,c,cpp)](https://skillicons.dev)
 
-  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ashley"/>
+[![Skills](https://skillicons.dev/icons?i=spring,hibernate,aws,mysql,docker,linux)](https://skillicons.dev)
 
-</div>
+[![Skills](https://skillicons.dev/icons?i=html,css,js,opencv)](https://skillicons.dev)
+
+[![Skills](https://skillicons.dev/icons?i=git,notion,figma,postman)](https://skillicons.dev)
 -->
+
+
+
+## :file_folder: Team Project History
+
+|프로젝트명|기간|비고|메인스택|깃허브|
+|--------|---|---|---|---|
+| 고수의 운동일지, Booster | 2024.06 ~ Current | 외부 | Spring Boot | Private |
+| 주행 교육 프로그램 Driving Experience의 앱 버전 | 2024.02 | HMG 소프티어 | Spring Boot | Private |
+| Java WAS | 2024.01 | HMG 소프티어 | Java | [GitHub](https://github.com/isExample/HMG-Softeer-BE-WAS) |
+| 클라우드를 활용한 지역 기반 거래 플랫폼 | 2023.08 ~ 2023.10 | 공모전 | Spring Boot | [GitHub](https://github.com/isExample/Server_Transaction) |
+| 유치장 내 CCTV를 활용한 폭행 탐지에 관한 연구 | 2023.02 ~ 2023.06 | 전공 | OpenCV | [GitHub](https://github.com/isExample/2023-01-CECD2-HTSR) , [Paper](https://kiss.kstudy.com/Detail/Ar?key=4028468)|
+| 나에게 맞는 PT service, Fit-I | 2023.01 ~ 2023.02 | 연합 동아리 | SpringBoot | [GitHub](https://github.com/isExample/FIT-I-Spring) |
+| 구독 서비스 관리 플랫폼, 구도기 | 2022.11 ~ 2022.12 | 전공 | SpringBoot | [GitHub](https://github.com/isExample/GooDoggy_BackEnd) |
+| 전자기기별 특징을 쉽게 알려주며 추천해주는 GetIT | 2022.07 ~ 2022.08 | 연합 동아리 | SpringBoot | [GitHub](https://github.com/isExample/GetIT-server) |
+| 얼굴인식을 이용한 집중도 판별 프로그램 및 앱 | 2022.03 ~ 2022.06 | 전공 | OpenCV | [GitHub](https://github.com/isExample/2022-01-OSSP1-IEung-6) |
+| 일상을 게시하고 소통할 수 있는 다이어리형 웹 | 2021.10 ~ 2021.12 | 전공 | JSP | - |
+
