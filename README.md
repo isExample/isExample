@@ -32,7 +32,6 @@
 |--------|---|---|---|---|
 | 고수의 운동일지, Booster | 2024.06 ~ Current | 외부 | Spring Boot | Private |
 | 주행 교육 프로그램 Driving Experience의 앱 버전 | 2024.02 | HMG 소프티어 | Spring Boot | Private |
-| Java WAS | 2024.01 | HMG 소프티어 | Java | [GitHub](https://github.com/isExample/HMG-Softeer-BE-WAS) |
 | 클라우드를 활용한 지역 기반 거래 플랫폼 | 2023.08 ~ 2023.10 | 공모전 | Spring Boot | [GitHub](https://github.com/isExample/Server_Transaction) |
 | 유치장 내 CCTV를 활용한 폭행 탐지에 관한 연구 | 2023.02 ~ 2023.06 | 전공 | OpenCV | [GitHub](https://github.com/isExample/2023-01-CECD2-HTSR) , [Paper](https://kiss.kstudy.com/Detail/Ar?key=4028468)|
 | 나에게 맞는 PT service, Fit-I | 2023.01 ~ 2023.02 | 연합 동아리 | SpringBoot | [GitHub](https://github.com/isExample/FIT-I-Spring) |
